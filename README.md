@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Umar
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning dart in college as well as javascript in institute to pursue career in web development
+- 🌱 I’m currently learning javascript pursue career in web development
 - 💞️ I’m looking to collaborate with no one at the moment instead to learn and grow.
 - 📫 You can reach me through my email umr.m2305@gmail.com . I check my mails on regular basis.
 - 😄 Pronouns: He/Him
