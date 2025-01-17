@@ -10,11 +10,16 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umartariqmuhammad) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24424609) 
+[![My Socials](https://skillicons.dev/icons?i=linkedin&perline=1)](https://linkedin.com/in/umartariqmuhammad)
+[![My Socials](https://skillicons.dev/icons?i=stackoverflow&perline=1)](https://stackoverflow.com/users/24424609)
+
+
+
+
 
 # 👨🏼‍💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,typescript,react,netlify,dart,flutter,cpp&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,typescript,react,netlify,dart,flutter,cpp&perline=5)](https://github/muhammadumar05)
 
 
 ### ✍️ Random Dev Quote
