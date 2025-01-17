@@ -1,5 +1,5 @@
 # 👋🏼 Hi, I'm Muhammad Umar
-👨🏼‍💻 Aspiring Software Engineer and Full Stack Web & App Developer<br>👨🏼‍🎓 Software Engineering Student at University of Karachi (UBIT)<br>🌱 Currently Learning: MERN Stack & React Native Development<br>💬 Passionate About: AI & Machine Learning<br>🤝 Looking to Collaborate: Not currently, focusing on learning and growing.<br>🚀 Goals: Build innovative web and app solutions while mastering AI and ML.<br/>
+👨🏼‍💻 Aspiring Software Engineer and Full Stack Web & App Developer<br>👨🏼‍🎓 Software Engineering Student at University of Karachi (UBIT)<br>🌱 Currently Learning: MERN Stack & React Native Development<br>💬 Passionate About: AI & Machine Learning<br>🤝 Looking to Collaborate: Not currently, focusing on learning and growing.<br>🚀 Goals: Build innovative web and app solutions while mastering AI and ML.<br/>📫 You can reach me through my email umr.m2305@gmail.com . I check my mails on regular basis.<br/>
 
 ---
 ![](https://github-readme-stats.vercel.app/api?username=muhammadumar05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
