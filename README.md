@@ -3,7 +3,7 @@
 
 ---
 ![](https://github-readme-stats.vercel.app/api?username=muhammadumar05&show_icons=true&theme=radical)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadumar05&theme=radical&hide_border=false)<br/>
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadumar05&theme=radical&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumar05&layout=compact&theme=radical)<br/>
 
 ---
