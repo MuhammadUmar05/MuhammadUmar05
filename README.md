@@ -35,7 +35,7 @@
 
 # 👨🏼‍💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,javascript,typescript,react,firebase,netlify,dart,flutter,cpp&perline=6)](https://github/muhammadumar05)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,javascript,typescript,react,firebase,netlify,dart,flutter,python&perline=6)](https://github/muhammadumar05)
 
 
 ### ✍️ GitHub Quote
