@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Developer Banner" width="50%" />
 </p><h1 align="center">Hi 👋, I'm Muhammad Umar</h1>
 <h3 align="center">An Aspiring Software Engineer</h3><p align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?color=8000FF&size=25&center=true&lines=Welcome+to+my+GitHub+profile!;I'm+a+Frontend+Developer;Currently+pursuing+MERN+Stack;" alt="Typing SVG" />  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=8000FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+Frontend+Developer;Currently+pursuing+MERN+Stack" alt="Typing SVG" />  
 </p>
 
 ## 🎯 About Me:
@@ -56,7 +56,3 @@
 > “It always seems impossible until it’s done.” – *Nelson Mandela*
 
 ---
-
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzczMjAwMzksIm5iZiI6MTczNzMxOTczOSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTE5VDIwNDg1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJkYjQ2YzNiNzNlMmQ2NjMwMDY1OTczN2U2OTdiMjUwNmY0ZmI4NDE4MDgzYjMzODE2OTg3ZWJhMTMzNTdlMWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gQHM5JkIaJy5Cv3N1dsjbKFBOaB1BWVVXkvbhVbWQpo" width="300px" height="250px"/>
-</p>
