@@ -40,7 +40,7 @@
 
 ### ✍️ GitHub Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Quotes" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"alt="GitHub Quotes" />
 </p>
 
 ---
