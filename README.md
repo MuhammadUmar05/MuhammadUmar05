@@ -33,7 +33,7 @@
 [![My Socials](https://skillicons.dev/icons?i=stackoverflow&perline=1)](https://stackoverflow.com/users/24424609)
 
 
-# 👨🏼‍💻 Tech Stack:
+# 👨🏼‍💻 Tech Stack: 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,javascript,typescript,react,firebase,netlify,dart,flutter,python&perline=6)](https://github/muhammadumar05)
 
