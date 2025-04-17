@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadumar05&theme=radical"  alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadumar05&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
