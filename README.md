@@ -14,16 +14,16 @@
 
 ## 📊 GitHub Stats:
 
-<p align="center">
+<p align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadumar05&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="center" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadumar05&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumar05&layout=compact&theme=radical"alt="Top Languages" />
+<p align="center" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumar05&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
 
 
 ### ✍️ GitHub Quote
-<p align="center">
+<p align="center" >
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"alt="GitHub Quotes" />
 </p>
 
