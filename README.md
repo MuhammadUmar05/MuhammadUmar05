@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Developer Banner" width="50%" />
 </p><h1 align="center">Hi 👋, I'm Muhammad Umar</h1>
 <h3 align="center">An Aspiring Software Engineer</h3><p align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=8000FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+Frontend+Developer;Currently+pursuing+MERN+Stack" alt="Typing SVG" />  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=8000FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+Frontend+Developer;Currently+pursuing+MERN+Stack" alt="Typing Text" />  
 </p>
 
 ## 🎯 About Me:
